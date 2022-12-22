@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a branch</h2></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
@@ -167,7 +167,7 @@ You may have noticed after your commit that a message displayed indicating your 
   if users accidentally closed without merging.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Nicely done friend! :sunglasses:_
