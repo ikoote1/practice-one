@@ -126,7 +126,7 @@ The following steps will guide you through the process of committing a change on
   and that the file was named correctly.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Open a pull request</h2></summary>
 
 _Nice work making that commit :sparkles:_
@@ -167,7 +167,7 @@ You may have noticed after your commit that a message displayed indicating your 
   if users accidentally closed without merging.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Nicely done friend! :sunglasses:_
